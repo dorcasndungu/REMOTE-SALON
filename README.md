@@ -7,7 +7,7 @@ This is a simple web application for that enables the user to get our services a
 * Clone the repo :{git clone https://github.com/dorcasndungu/REMOTE-SALON.git }
 * No server or dependencies needed to run the code.
 ## Live link
-
+https://dorcasndungu.github.io/REMOTE-SALON/
 ## Known Bugs
 The navigation bar isn't functioning as expected
 ## Technologies Used
